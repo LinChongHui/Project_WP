@@ -2,5 +2,5 @@
 Movie review Website
 
 <p align="center">
-  <img src="assets/screenshot.png" width="400"/>
+  <img src="assets/Boboboy.png" width="400"/>
 </p>
